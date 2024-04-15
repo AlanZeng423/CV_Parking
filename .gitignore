@@ -1,0 +1,17 @@
+# MACOS
+.DS_Store
+
+# __pycache__ directory
+/__pycache__/
+
+# IDEA
+.idea/
+
+# logs
+/logs/
+
+# virtualenv
+/venv/
+
+# VSCODE
+.vscode/
